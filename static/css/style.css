@@ -1,0 +1,27 @@
+#time {
+    height: 200px;
+    width: 960px;
+}
+
+h3 {
+    width: 245px;
+    text-align: center;
+    border-style: solid;
+    border-width: 2px;
+    margin: auto;
+    margin-top: 25px;
+    padding: 1px, 5px, 15px, 5px;
+}
+
+h1 {
+    width: 191px;
+    text-align: center;
+    font-family: sans-serif;
+    margin-top: 15px;
+    margin-left: 285px;
+    padding-bottom: 20px;
+    padding-left: 100px;
+    padding-right: 100px;
+    border-style: solid;
+    border-width: 2px;
+}
